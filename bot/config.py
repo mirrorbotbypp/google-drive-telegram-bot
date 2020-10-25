@@ -1,9 +1,9 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
+    BOT_TOKEN = "1380680387:AAEgvwIfiUa78g_VeZb5LkPhO87wTOEUQa4"
+    APP_ID = "1369588"
+    API_HASH = "adebe1e285fdde2110b865003b63e173"
     DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    SUDO_USERS = "1026084657" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
 
